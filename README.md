@@ -51,10 +51,10 @@ Este launcher no sería posible sin las siguientes herramientas:
 ## ⚠️ AVISO LEGAL (LEGAL DISCLAIMER)
 
 > **Español:** Este es un proyecto de preservación hecho por fans y **SIN FINES DE LUCRO**. No estamos afiliados, respaldados ni patrocinados por Microsoft, Activision, Sierra Entertainment ni sus subsidiarias. "Metal Arms: Glitch in the System" y todos sus recursos (modelos, texturas, sonidos) son propiedad de sus respectivos dueños.
-> Este launcher **NO** distribuye los archivos originales del juego (como la ISO o ROM). Los usuarios deben poseer legalmente una copia del juego original para poder jugar. Si los dueños de los derechos de autor solicitan la eliminación de este proyecto, cumpliremos de inmediato.
+ Si los dueños de los derechos de autor solicitan la eliminación de este proyecto, cumpliremos de inmediato.
 > 
 > **English:** This is a non-profit, fan-made preservation project. We are not affiliated, endorsed, or sponsored by Microsoft, Activision, Sierra Entertainment, or any of their subsidiaries. "Metal Arms: Glitch in the System" and all related assets are the property of their respective copyright holders.
-> This launcher **DOES NOT** distribute the original game files. Users must legally own a copy of the original game to play. If the copyright holders request the removal of this project, we will comply immediately.
+>  If the copyright holders request the removal of this project, we will comply immediately.
 
 ---
 
